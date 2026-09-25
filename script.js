@@ -38,7 +38,7 @@ scratchBtn.addEventListener("click", () => {
 // =======================
 
 // Change your wedding date here
-const weddingDate = new Date("March 12, 2027 08:00:00").getTime();
+const weddingDate = new Date("March 13, 2027 08:00:00").getTime();
 
 function countdown(){
 
